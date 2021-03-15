@@ -1,0 +1,249 @@
+body {
+    font-family: Roboto;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;;
+}
+
+.top {
+    background: #E0E1E2;
+    margin-top: 0px;
+    padding-top: 25px;
+    padding-bottom: 48px;
+}
+
+.center_content {
+    display: flex;
+    justify-content: center;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+}
+
+.heading {
+    font-style: normal;
+    font-weight: 900;
+    font-size: 20px;
+    text-align: center;
+    color: #2F3132;
+}
+
+.text {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    color: #2F3132;
+    
+
+}
+
+.top_image {
+    margin-top: 94px;
+    height: 230px;
+    background-image: url(img/MX-Master\ 1.svg);
+    background-size: contain;
+    margin-bottom: 41px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.top_arrow {
+    margin-top: 40px;
+}
+
+.top_text {
+    margin-left: 59px;
+    margin-right: 59px;    
+}
+
+.section2 {
+    padding-top: 42px;
+    padding-bottom: 18;
+    background: #EDEDED;
+}
+
+.bluetooth {
+    margin-bottom: 27px;
+    display: flex;
+    justify-content: center;
+}
+
+.text2{
+    padding-left: 34px;
+    padding-right: 33px;
+    margin-top: 31px;
+}
+
+.days{
+    font-style: normal;
+    font-weight: 900;
+    font-size: 60px;
+    line-height: 70px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #C4C4C4;
+    padding-left: 34px;
+    padding-right: 33px;
+}
+
+.section3 {
+padding-top: 70px;
+}
+
+.text3 {
+    margin-top: 20px;
+    margin-bottom: 30px;
+    margin-right: 61px;
+    margin-left: 67px;
+}
+
+.info_item {
+    border: 1px solid #2F3132;
+    box-sizing: border-box;
+    width: 166px;
+    min-height: 94.07px;
+    flex-basis: 166px;
+    
+}
+
+.info_content {
+    margin-bottom: 28px;
+    display: flex;
+    justify-content: center;
+    gap: 6px;
+}
+
+.text4 {
+    padding-left: 34px;
+    padding-right: 34px;
+    margin-bottom: 63px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+}
+
+.info_heading {
+    font-style: normal;
+    font-weight: 900;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    color: #2F3132;
+    margin-top: 28px;
+}
+
+.item_text1 {
+    padding-top: 8px;
+}
+
+.section_list {
+    padding-top: 70px;
+    padding-bottom: 218px;
+    background-image: url(img/High_Resolution_JPG-MX\ Lifestyle\ 2346\ 1.png);
+    background-color: #EDEDED;
+    background-repeat: no-repeat;
+    background-position: bottom; 
+    background-size: initial ;
+}
+
+.text_list {
+    padding-left: 34px;
+    padding-right: 33px; 
+    margin-bottom: 36px;
+}
+
+.list_heading_margin {
+    margin-left: 28px;
+    margin-right: 28px;
+    margin-bottom: 20px;
+}
+
+.list {
+    padding-left: 54px;
+}
+
+.list_text {
+    margin-bottom: 16px;
+    text-align: left;
+    width: 224px;
+    
+}
+
+.settings {
+    padding-top: 70px;
+    background: #EDEDED
+}
+
+.text_settings {
+    margin-top: 20px;
+    margin-right: 34px;
+    margin-left: 34px;    
+}
+
+.carousel {
+    margin: 35px 22px 95px 23px;
+}
+
+.apps_img {
+    justify-content: center;
+    margin-top: 23px;
+    margin-bottom: 20px;
+    margin-left: 29px;
+    margin-right: 22px;
+}
+
+.app_box {
+    background: #C4C4C4;
+}
+
+.app_text {
+    margin-top: 20px;
+    margin-right: 34px;
+    margin-left: 34px;
+    padding-bottom: 26px;
+    color: #FFFFFF;  
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+}
+
+.text_last {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    margin-right: 34px;
+    margin-left: 34px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.h_last {
+    margin-top: 70px;
+    margin-left: 34px;
+    margin-right: 34px;
+}
+
+.footer {
+    background: #2F3132;
+    height: 75px;
+}
+
+.footer_text {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 7px;
+    line-height: 8px;
+    text-align: center;
+    color: #C7C8C8;
+    padding: 22px 145px 37px 145px;
+}
